@@ -6,6 +6,7 @@ I will add all the gnuradio code here to be able to comunicate via Soapy driver.
 
 Install the following.
 
+    sudo apt update
     sudo apt install gnuradio
     sudo apt install gr-soapy
     sudo apt install libgnuradio-soapy2.1.3
