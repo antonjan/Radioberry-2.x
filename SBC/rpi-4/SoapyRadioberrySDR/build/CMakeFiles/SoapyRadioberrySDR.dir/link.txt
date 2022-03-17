@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared  -o libSoapyRadioberrySDR.so CMakeFiles/SoapyRadioberrySDR.dir/SoapyRadioberry.cpp.o CMakeFiles/SoapyRadioberrySDR.dir/SoapyRadioberrySettings.cpp.o CMakeFiles/SoapyRadioberrySDR.dir/SoapyRadioberryStreaming.cpp.o CMakeFiles/SoapyRadioberrySDR.dir/i2c.cpp.o  -lSoapySDR 

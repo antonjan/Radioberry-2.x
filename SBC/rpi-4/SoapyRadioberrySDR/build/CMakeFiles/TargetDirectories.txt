@@ -1,0 +1,8 @@
+/home/pi/Radioberry-2.x/SBC/rpi-4/SoapyRadioberrySDR/build/CMakeFiles/install/strip.dir
+/home/pi/Radioberry-2.x/SBC/rpi-4/SoapyRadioberrySDR/build/CMakeFiles/list_install_components.dir
+/home/pi/Radioberry-2.x/SBC/rpi-4/SoapyRadioberrySDR/build/CMakeFiles/install/local.dir
+/home/pi/Radioberry-2.x/SBC/rpi-4/SoapyRadioberrySDR/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Radioberry-2.x/SBC/rpi-4/SoapyRadioberrySDR/build/CMakeFiles/edit_cache.dir
+/home/pi/Radioberry-2.x/SBC/rpi-4/SoapyRadioberrySDR/build/CMakeFiles/install.dir
+/home/pi/Radioberry-2.x/SBC/rpi-4/SoapyRadioberrySDR/build/CMakeFiles/test.dir
+/home/pi/Radioberry-2.x/SBC/rpi-4/SoapyRadioberrySDR/build/CMakeFiles/SoapyRadioberrySDR.dir
