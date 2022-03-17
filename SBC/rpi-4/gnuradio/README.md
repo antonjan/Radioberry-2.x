@@ -120,9 +120,9 @@ TX Transmitter settings<br>
 
 ![TX flow](images/radioberry_soapy_sink_tx_2.jpg?raw=true "Block diagram")<br>
 ![TX flow](images/radioberry_soapy_sink_tx_3.jpg?raw=true "Block diagram")<br>
-RX Recver flow 
+RX Receiver flow<br> 
 ![RX flow](images/radioberry_soapy_source_rx_1.jpg?raw=true "Block diagram")<br>
-RX Recever settings
+RX Receiver flow settings<br>
 ![RX flow](images/radioberry_soapy_source_rx_2.jpg?raw=true "Block diagram")<br>
 ![RX flow](images/radioberry_soapy_source_rx_3.jpg?raw=true "Block diagram")<br>
 ![RX flow](images/radioberry_soapy_source_rx_4.jpg?raw=true "Block diagram")<br>
