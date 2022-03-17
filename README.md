@@ -6,6 +6,13 @@ RadioBerry V2.0 - Ham radio cape for Raspberry PI
 - Building a HAM Radio
 - Learning (from noob to guru)
 
+## Usable clients for Radioberry
+
+	pihpsdr  Can be run on the Raspberry
+	powersdr
+	quisk
+	spark 
+
 WIKI FOR MORE DETAILS:  https://github.com/pa3gsb/Radioberry-2.x/wiki
 
 ## Radioberry:
