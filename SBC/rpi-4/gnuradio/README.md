@@ -114,8 +114,10 @@ Install the following.
     
 # exsample flows
 TX Transmitter flow<br>
-![TX flow](images/radioberry_soapy_sink_tx_1.jpg?raw=true "Block diagram")<br>
+![TX flow](images/radioberry_soapy_sink_tx_0.jpg?raw=true "Block diagram")<br>
 TX Transmitter settings<br>
+![TX flow](images/radioberry_soapy_sink_tx_1.jpg?raw=true "Block diagram")<br>
+
 ![TX flow](images/radioberry_soapy_sink_tx_2.jpg?raw=true "Block diagram")<br>
 ![TX flow](images/radioberry_soapy_sink_tx_3.jpg?raw=true "Block diagram")<br>
 RX Recver flow 
