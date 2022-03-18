@@ -1,6 +1,8 @@
 GnuRadio Transmitter and receiver examples
 
 I will add all the gnuradio code here to be able to comunicate via Soapy driver.
+RX Receiver flow<br> 
+![RX flow](images/radioberry_soapy_sink_rx.jpg?raw=true "Block diagram")<br>
 
 ## Reguerments.
 
